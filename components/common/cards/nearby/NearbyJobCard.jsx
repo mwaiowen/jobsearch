@@ -29,4 +29,4 @@ const NearbyJobCard = ({ job, handleNavigate }) => {
   );
 };
 
-export default NearbyJobCard; 
+export default NearbyJobCard;
